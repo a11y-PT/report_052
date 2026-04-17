@@ -1,10 +1,10 @@
 ---
-website: "teste"          # Entre as aspas escreve o nome do website
-date: "11/11/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://teste.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://teste.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "prop-teste"         # Entre as aspas escrever o nome do owner do website
-seal: "_teste_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+website: "Câmara de Felgueiras"          # Entre as aspas escreve o nome do website
+date: "17/04/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "https://cm-felgueiras.pt/"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://cm-felgueiras.pt/municipio/imprensa/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+owner: "Câmara de Felgueiras"         # Entre as aspas escrever o nome do owner do website
+seal: "_Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
