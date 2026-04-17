@@ -4,7 +4,7 @@ date: "17/04/2026"                    # Entre as aspas escreve a data de criaç�
 uri: "https://cm-felgueiras.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cm-felgueiras.pt/municipio/imprensa/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Câmara de Felgueiras"         # Entre as aspas escrever o nome do owner do website
-seal: "_Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
